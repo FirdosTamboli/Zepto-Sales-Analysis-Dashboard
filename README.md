@@ -142,15 +142,6 @@ Used for:
 - Handling missing values
 - Data preparation
 
-### DAX
-Used for creating calculated measures and KPIs.
-
-### Excel / CSV
-Used as the source data for the analysis.
-
-### GitHub
-Used for project documentation and portfolio management.
-
 ## 🧹 Data Preparation
 
 The following data preparation steps were performed:
@@ -165,9 +156,7 @@ The following data preparation steps were performed:
 8. Added slicers for interactive filtering.
 9. Designed the final dashboard layout.
 
----
-
-## 📐 Important KPIs
+# 📐 Important KPIs
 
 ### Total Sales
 
@@ -212,21 +201,3 @@ Snack Foods contribute approximately **$133.75K** in sales.
 ### 6. Customer Rating
 
 The average customer rating is approximately **3.9 out of 5**.
-
-## 📁 Project Structure
-
-Zepto-Sales-Analysis/
-│
-├── README.md
-│
-├── Dashboard/
-│   └── Zepto_Sales_Dashboard.pbix
-│
-├── Dataset/
-│   └── zepto_sales_data.csv
-│
-├── Images/
-│   └── dashboard.png
-│
-└── Documentation/
-    └── Project_Documentation.pdf
